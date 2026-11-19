@@ -1,0 +1,22 @@
+HAS NETWORKS — EMAIL ENQUIRY SETUP
+
+Primary inbox: deepak09kumaar@gmail.com
+CC inbox: hasnetworks1@gmail.com
+Provider: FormSubmit (https://formsubmit.co/)
+
+1. Upload all extracted files to GitHub Pages or Hostinger. Serve the site over HTTPS, not by opening index.html as a local file.
+2. Open the live website and submit one test enquiry. Complete any spam verification.
+3. Open deepak09kumaar@gmail.com and find the FormSubmit activation email (also check Spam). Click its confirmation / Activate Form link.
+4. Submit a new test enquiry AFTER activation. Check both inboxes and Spam folders. Repeat activation if the provider requests it for a new website origin.
+
+Delivery has not been tested by the developer: no test enquiry or activation email was sent automatically. FormSubmit must be activated by the inbox owner before normal delivery can be relied on.
+
+The form uses FormSubmit's documented _cc field to copy the second inbox. No Gmail password or app password is embedded in the site. The thank-you URL is set relative to your actual website, including a GitHub repository subpath.
+
+IF ENQUIRIES ARE NOT ARRIVING
+- Check that the live form action points to https://formsubmit.co/deepak09kumaar@gmail.com.
+- Activate the FormSubmit email sent to deepak09kumaar@gmail.com; check Spam as well.
+- Complete the verification shown after submitting, then send a NEW test after activation.
+- Check both inboxes and Spam folders. Activation and email delivery cannot be verified from website source alone.
+- Share the tested live website URL and the exact FormSubmit response to investigate further.
+- The "Email us directly" link opens the visitor's email app with both recipients and any entered details. The visitor must review and press Send in that app; it does not depend on FormSubmit activation.

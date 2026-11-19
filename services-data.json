@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Frontbound",
+    "page": "frontbound.html",
+    "diagram": "assets/services/frontbound-how-it-works.svg"
+  },
+  {
+    "name": "Internet Lease Line",
+    "page": "internet-leased-line.html",
+    "diagram": "assets/services/internet-leased-line-how-it-works.svg"
+  },
+  {
+    "name": "Point-to-Point",
+    "page": "point-to-point.html",
+    "diagram": "assets/services/point-to-point-how-it-works.svg"
+  },
+  {
+    "name": "Fiber on Lease",
+    "page": "fiber-on-lease.html",
+    "diagram": "assets/services/fiber-on-lease-how-it-works.svg"
+  },
+  {
+    "name": "Cloud Telephony",
+    "page": "cloud-telephony.html",
+    "diagram": "assets/services/cloud-telephony-how-it-works.svg"
+  },
+  {
+    "name": "Data Center",
+    "page": "data-center.html",
+    "diagram": "assets/services/data-center-how-it-works.svg"
+  },
+  {
+    "name": "Managed Services",
+    "page": "managed-services.html",
+    "diagram": "assets/services/managed-services-how-it-works.svg"
+  },
+  {
+    "name": "Security & Surveillance",
+    "page": "security-surveillance.html",
+    "diagram": "assets/services/security-surveillance-how-it-works.svg"
+  }
+]
